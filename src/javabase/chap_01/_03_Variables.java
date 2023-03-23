@@ -1,4 +1,4 @@
-package chap_01;
+package javabase.chap_01;
 
 public class _03_Variables {
     public static void main(String[] args) {

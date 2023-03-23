@@ -1,4 +1,4 @@
-package chap_01;
+package javabase.chap_01;
 
 public class _06_Constants {
     public static void main(String[] args) {
