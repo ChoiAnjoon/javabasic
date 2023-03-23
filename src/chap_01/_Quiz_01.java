@@ -9,5 +9,6 @@ public class _Quiz_01 {
         System.out.println("버스 번호는 " + busNo + "입니다.");
         System.out.println("남은 시간은 " + time + "분 입니다.");
         System.out.println("남은 거리는 " + distance + "km 입니다.");
+        // intellij git practice
     }
 }
