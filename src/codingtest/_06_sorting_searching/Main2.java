@@ -1,4 +1,4 @@
-package codingtest.sorting_searching;
+package codingtest._06_sorting_searching;
 import java.util.*;
 // 버블정렬
 public class Main2 {

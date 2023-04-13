@@ -1,4 +1,4 @@
-package codingtest.sorting_searching;
+package codingtest._06_sorting_searching;
 
 import java.util.*;
 // 좌표 정렬

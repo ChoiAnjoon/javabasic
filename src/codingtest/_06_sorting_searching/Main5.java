@@ -1,4 +1,4 @@
-package codingtest.sorting_searching;
+package codingtest._06_sorting_searching;
 import java.util.*;
 // 중복확인
 public class Main5 {

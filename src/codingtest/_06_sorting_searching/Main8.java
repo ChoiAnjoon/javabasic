@@ -1,4 +1,4 @@
-package codingtest.sorting_searching;
+package codingtest._06_sorting_searching;
 import java.util.*;
 // 이분검색
 public class Main8 {
