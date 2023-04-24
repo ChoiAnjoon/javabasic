@@ -1,5 +1,4 @@
-package codingtest.dfs_bfs_1;
-import java.util.*;
+package codingtest._07_dfs_bfs_1;
 
 // Tree 말단 노드까지의 가장 짧은 경로 (DFS로 풀어보기)
 // DFS로 풀시 노드의 자식들이 왼쪽,오른쪽 둘다 있거나 없어야 됨을 가정한다.

@@ -1,4 +1,4 @@
-package codingtest.dfs_bfs_1;
+package codingtest._07_dfs_bfs_1;
 
 import java.util.*;
 // Tree 말단 노드까지의 가장 짧은 경로 (BFS) -> 최단거리는 BFS가 정답

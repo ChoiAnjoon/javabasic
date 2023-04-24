@@ -1,4 +1,4 @@
-package codingtest.dfs_bfs_1;
+package codingtest._07_dfs_bfs_1;
 import java.util.*;
 // 송아지 찾기 (BFS: 상태트리탐색)
 public class Main8 {

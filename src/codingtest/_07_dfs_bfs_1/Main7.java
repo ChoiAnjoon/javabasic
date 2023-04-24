@@ -1,4 +1,4 @@
-package codingtest.dfs_bfs_1;
+package codingtest._07_dfs_bfs_1;
 
 import java.util.*;
 // 이진트리 순회(넓이우선탐색:레벨탐색(BFS))

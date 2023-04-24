@@ -1,5 +1,4 @@
-package codingtest.dfs_bfs_1;
-import java.util.*;
+package codingtest._07_dfs_bfs_1;
 // 이진트리 순회 (깊이우선탐색 DFS)
 
 

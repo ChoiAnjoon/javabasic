@@ -1,4 +1,4 @@
-package codingtest.dfs_bfs_1;
+package codingtest._07_dfs_bfs_1;
 import java.util.*;
 // 피보나치수열 (DFS)
 public class Main4 {
