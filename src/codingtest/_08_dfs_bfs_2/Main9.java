@@ -8,7 +8,7 @@ public class Main9 {
     static int[] combi;
     public void DFS(int L, int s) { // 조합 구하는 이 함수채로 외우자
         if (L==m) {
-            for (int x: combi) System.out.println(x+" ");
+            for (int x: combi) System.out.print(x+" ");
             System.out.println();
         }
         else {
