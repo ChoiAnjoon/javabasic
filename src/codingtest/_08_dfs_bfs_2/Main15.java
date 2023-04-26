@@ -31,6 +31,9 @@ public class Main15 {
             answer=Math.min(answer, sum);
         }
         else {
+            // s는 0 인덱스로 시작 해서 len 6 까지 --> 총 6개
+            // 6개의 피자집중에서 4개를 뽑는 조합 구하기 조합은 위의 if 문에서
+            // m 즉 level이 4가 될때 끊어줌으로 6개중 4개를 선택한 피자집 index 조합을 만듬
             for (int i=s; i<len; i++) {
                 combi[L]=i;
                 DFS(L+1, i+1);
@@ -54,7 +57,7 @@ public class Main15 {
         }
         len=pizza.size();
         combi=new int[m];
-        T.DFS(0,0);
+        T.DFS(0,0);  // len C m --> index 값으로 조합을 구함 (즉 6개의 피자집중 4개를 선택 인덱스로)
         System.out.println(answer);
     }
 }
